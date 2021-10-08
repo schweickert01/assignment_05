@@ -50,8 +50,9 @@ Please organize your essay according to the following outline to help you in you
   - What are the major problems that are being created by this technology?
   - Where is the damage?
     - Is _trust_ being eroded somewhere?
-    - Do the environmental conditions _deteriorate_
-    - Are human or animal lives being _impacted_? etc.
+    - Do environmental conditions _deteriorate_
+    - Are human or animal lives being _impacted_? 
+    - etc.
   - What proof (published academic articles, books, expert opinions and talks on the subject, data analysis projects, etc) is there to document that this damage is actually happening as a result of the misuse of technology?
 
 - **Conclusions**   
