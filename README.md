@@ -38,26 +38,26 @@ Please organize your essay according to the following outline to help you in you
 
 
 - **Introduction and Motivation**
- - What is the technology (or use of data) being discussed in this essay?
- - What does this technology do? What are some of its main uses and applications?
- - What kinds of solutions was this technology designed to address?
- - What kinds of dilemmas and problems are actually created?
- - Who uses the technology to cause these dilemmas and problems?
+  - What is the technology (or use of data) being discussed in this essay?
+  - What does this technology do? What are some of its main uses and applications?
+  - What kinds of solutions was this technology designed to address?
+  - What kinds of dilemmas and problems are actually created?
+  - Who uses the technology to cause these dilemmas and problems?
 
 - **Body**
- - In meaningful language, describe the proposed solutions of the technology (what _should_ the technology be doing?)
- - In meaningful language, describe the actual solutions of the technology (what _is_ the technology being used to do?)
- - What are the major problems that are being created by this technology?
- - Where is the damage?
-   - Is _trust_ being eroded somewhere?
-   - Do the environmental conditions _deteriorate_
-   - Are human or animal lives being _impacted_? etc.
- - What proof (published academic articles, books, expert opinions and talks on the subject, data analysis projects, etc) is there to document that this damage is actually happening as a result of the misuse of technology?
+  - In meaningful language, describe the proposed solutions of the technology (what _should_ the technology be doing?)
+  - In meaningful language, describe the actual solutions of the technology (what _is_ the technology being used to do?)
+  - What are the major problems that are being created by this technology?
+  - Where is the damage?
+    - Is _trust_ being eroded somewhere?
+    - Do the environmental conditions _deteriorate_
+    - Are human or animal lives being _impacted_? etc.
+  - What proof (published academic articles, books, expert opinions and talks on the subject, data analysis projects, etc) is there to document that this damage is actually happening as a result of the misuse of technology?
 
 - **Conclusions**   
- - What can be done to understand the problems for which the technology was designed to resolve?
- - What does one suppose will happen if the technology is allowed to be used as it is now? Will the problems subside or could they still escalate and cause more damage?
- - How could this problem be resolved? How do you know this resolution could happen?
+  - What can be done to understand the problems for which the technology was designed to resolve?
+  - What does one suppose will happen if the technology is allowed to be used as it is now? Will the problems subside or could they still escalate and cause more damage?
+  - How could this problem be resolved? How do you know this resolution could happen?
 
 
 ---
