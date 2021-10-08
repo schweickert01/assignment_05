@@ -3,7 +3,7 @@
 ### Table of contents
 
 * [Instruction](#instructions)
-* [Due Dates](#due_dates)
+* [Due Dates](#due-dates)
 * [Consulting](#consulting)
 * [Thesis Question](#Thesis)
 * [Essay Outline](#outline)
@@ -17,7 +17,7 @@ A short writing assignment based on the **Black-Mirror** activity and the **Code
 This assignment requires you to write a short essay of about 600 to 800 words (about a full page of text). You are to write your essay in the File `writing/reflection.md` of your work repository. Your writing should expand on some of the issues that we covered from the **Black-Mirror** activity and be informed by what you learned by watching the the **Coded-Bias** documentary. Please use the provided outline (below) to help organize your writing.
 
 
-### Due Dates
+### Due-Dates
  - The **essay** is due on Wednesday, 13th October. On Wednesday, we will have a peer-editing activity where you will exchange essays with a colleague to read and discuss the flow and the text.
 
  - The **entire project** is to be submitted by Friday's class: 15th October 2021
